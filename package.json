@@ -4,6 +4,7 @@
   "description": "Sample app for testing the Brimble deployment pipeline",
   "main": "index.js",
   "scripts": {
+    "build": "echo 'No build step'",
     "start": "node index.js"
   }
 }
