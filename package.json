@@ -1,0 +1,9 @@
+{
+  "name": "hello-brimble",
+  "version": "1.0.0",
+  "description": "Sample app for testing the Brimble deployment pipeline",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
